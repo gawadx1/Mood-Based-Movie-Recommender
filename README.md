@@ -1,4 +1,4 @@
-# 🎬 Mood-Based Movie Recommender
+# 🎬 emotion-movie-recommender
 
 ## 📝 Overview
 
