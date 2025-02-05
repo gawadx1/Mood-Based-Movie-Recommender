@@ -16,8 +16,8 @@ This is a **Streamlit web app** that recommends movies based on your mood. Simpl
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/gawadx1/mood-movie-recommender.git
-   cd mood-movie-recommender
+   git clone https://github.com/gawadx1/emotion-movie-recommender.git
+   cd emotion-movie-recommender
    ```
 2. Install dependencies:
    ```bash
